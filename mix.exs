@@ -27,7 +27,7 @@ defmodule FeatureSupervisor.MixProject do
 
   defp deps do
     [
-      {:ex_doc, "~> 0.30.6", only: :dev, runtime: false}
+      {:ex_doc, "~> 0.31.0", only: :dev, runtime: false}
     ]
   end
 
